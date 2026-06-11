@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "home": "Baş Sahypa",
+        "services": "Ukyplarymyz",
+        "contact": "Habarlaşmak"
+    },
+    "hero": {
+        "title": "Sanly Kämilleşdiriş Inženeriýasy",
+        "subtitle": "Akhal Labs ýokary hilli we bökdençsiz programma üpjünçiligini hödürleýär. Öňdebaryjy arhitektura we ajaýyp UX dizaýnyna esaslanýan premium mobil, PC we web platformalaryny döredýäris."
+    },
+    "services": {
+        "mobile": {
+            "title": "Mobil Programmalar",
+            "desc": "Çalt işleýän we täsirli interfeýsli mobil programmalaryny dolandyrmak. Çylşyrymly logikany ulanyjylary özüne çekýän we aňsat ulanylýan görnüşde hödürleýäris."
+        },
+        "pc": {
+            "title": "PC Programmalar",
+            "desc": "Güýçli we takyk işleýän desktop programmalaryny işläp düzmek. Korporatiw gurallardan başlap ösen hyzmatlara çenli, öndürijiligi ýokarlandyrýan çözgütleri gurnaýarys."
+        },
+        "uiux": {
+            "title": "UI/UX Dizaýn",
+            "desc": "Kämil we ulanyjy üçin amatly interfeýsleri dizaýn etmek. Biziň estetikamyz, her ädimde aýdyňlygy, nepisligi we aňsatlygy ileri tutýan häzirki zaman minimalizmden ybaratdyr."
+        },
+        "web": {
+            "title": "Web Ösüşi",
+            "desc": "Dinamik we göwrümi giňeldilip bilinýän web arhitekturalaryny gurmak. Korporatiw standartlaryna laýyk gelýän, howpsuz we iň çalt işleýän web platformalaryny döretmek üçin täzeçil tehnologiýalary ulanýarys."
+        }
+    },
+    "footer": {
+        "rights": "© 2026 Akhal Labs."
+    }
+}

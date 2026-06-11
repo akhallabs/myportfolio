@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Uzmanlık",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Dijital Mükemmelliği İnşa Ediyoruz",
+    "subtitle": "Akhal Labs, tavizsiz yazılım çözümleri sunar. İleri düzey mimari ve elit UX tasarımıyla güçlendirilmiş birinci sınıf mobil, PC ve web deneyimleri geliştiriyoruz."
+  },
+  "services": {
+    "mobile": {
+      "title": "Mobil Uygulama",
+      "desc": "Akıcı, yüksek performanslı yerel ve çapraz platform mobil uygulamaları mimarisi. Kullanıcıları cezbeden, kesintisiz ve sezgisel arayüzlerle karmaşık mantığı basitleştiriyoruz."
+    },
+    "pc": {
+      "title": "PC Uygulamaları",
+      "desc": "Güç ve hassasiyet için tasarlanmış sağlam masaüstü yazılım geliştirme. Kurumsal araçlardan gelişmiş yardımcı programlara kadar, üretkenliği yeniden tanımlayan uygulamalar inşa ediyoruz."
+    },
+    "uiux": {
+      "title": "UI/UX Tasarımı",
+      "desc": "Sofistike, kullanıcı odaklı arayüzler tasarlama. Estetiğimiz, her dokunma noktasında netlik, zarafet ve sorunsuz etkileşimi önceliklendiren modern minimalizme dayanmaktadır."
+    },
+    "web": {
+      "title": "Web Geliştirme",
+      "desc": "Dinamik, ölçeklenebilir web mimarileri oluşturma. Kurumsal standartlara uygun, güvenli ve şimşek hızında web platformları sunmak için en son teknolojileri kullanıyoruz."
+    }
+  },
+  "footer": {
+    "rights": "© 2026 Akhal Labs."
+  }
+}

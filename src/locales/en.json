@@ -1,0 +1,32 @@
+{
+    "nav": {
+        "home": "Home",
+        "services": "Expertise",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "Engineering Digital Excellence",
+        "subtitle": "Akhal Labs delivers uncompromising software solutions. We forge premium mobile, PC, and web experiences driven by cutting-edge architecture and elite UX design."
+    },
+    "services": {
+        "mobile": {
+            "title": "Mobile App",
+            "desc": "Architecting fluid, high-performance native and cross-platform mobile applications. We translate complex logic into seamless, intuitive interfaces that captivate users."
+        },
+        "pc": {
+            "title": "PC Apps",
+            "desc": "Developing robust desktop software engineered for power and precision. From enterprise tools to advanced utilities, we build applications that redefine productivity."
+        },
+        "uiux": {
+            "title": "UI/UX Design",
+            "desc": "Designing sophisticated, user-centric interfaces. Our aesthetic is grounded in modern minimalism, prioritizing clarity, elegance, and frictionless interaction at every touchpoint."
+        },
+        "web": {
+            "title": "Web Dev",
+            "desc": "Building dynamic, scalable web architectures. We utilize state-of-the-art frameworks to deliver secure, lightning-fast web platforms tailored to corporate standards."
+        }
+    },
+    "footer": {
+        "rights": "© 2026 Akhal Labs."
+    }
+}
